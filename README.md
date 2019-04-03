@@ -4,9 +4,9 @@ Relação de links de sites legais sobre data science, machine learning e sistem
 
 Complexity Explorer: <https://www.complexityexplorer.org/>. O Complexity Explorer oferece cursos on-line e materiais educativos sobre ciência da complexidade, é um projeto de educação do Instituto Santa Fé, a sede mundial da ciência da complexidade.
 
-Emergir: https://www.emergir.co/ 
+Emergir: https://www.emergir.co/. Emergir é uma iniciativa independente com um objetivo claro: disseminar os fenômenos que caracterizam o paradigma da Complexidade.
 
-Kaggle: <https://www.kaggle.com/>
+Kaggle: <https://www.kaggle.com/>. 
 
 R-statistics: <http://r-statistics.co/>
 
